@@ -1,0 +1,60 @@
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\bin\Debug\Protectora.exe.config
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\bin\Debug\Protectora.exe
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\bin\Debug\Protectora.pdb
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\bin\Debug\SpreadsheetLight.dll
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\bin\Debug\SpreadsheetLight.xml
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Protectora.csprojAssemblyReference.cache
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Ayuda.g.cs
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Gestion.g.cs
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\gestion_prueba.g.cs
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\gestion_socios.g.cs
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\gestion_voluntarios.g.cs
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Inicio.g.cs
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Protectora_MarkupCompile.cache
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Protectora_MarkupCompile.lref
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Ayuda.baml
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Gestion.baml
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\gestion_prueba.baml
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\gestion_socios.baml
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\gestion_voluntarios.baml
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Inicio.baml
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\MainWindow.baml
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Protectora.g.resources
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Protectora.Properties.Resources.resources
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Protectora.csproj.GenerateResource.cache
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Protectora.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Protectora.csproj.CopyComplete
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Protectora.exe
+C:\Users\RAUL\Source\Repos\Protectora\Protectora\obj\Debug\Protectora.pdb
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\bin\Debug\Protectora.exe.config
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\bin\Debug\Protectora.exe
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\bin\Debug\Protectora.pdb
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\bin\Debug\SpreadsheetLight.dll
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\bin\Debug\SpreadsheetLight.xml
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Protectora.csproj.AssemblyReference.cache
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Ayuda.g.cs
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Gestion.g.cs
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\gestion_prueba.g.cs
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\gestion_socios.g.cs
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\gestion_voluntarios.g.cs
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Inicio.g.cs
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\MainWindow.g.cs
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\App.g.cs
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Protectora_MarkupCompile.cache
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Protectora_MarkupCompile.lref
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Ayuda.baml
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Gestion.baml
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\gestion_prueba.baml
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\gestion_socios.baml
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\gestion_voluntarios.baml
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Inicio.baml
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\MainWindow.baml
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Protectora.g.resources
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Protectora.Properties.Resources.resources
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Protectora.csproj.GenerateResource.cache
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Protectora.csproj.CoreCompileInputs.cache
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Protectora.csproj.CopyComplete
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Protectora.exe
+C:\Users\RAUL\Documents\IPO1\IPO1\Nueva carpeta\Protectora\Protectora\obj\Debug\Protectora.pdb

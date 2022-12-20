@@ -1,0 +1,12 @@
+﻿
+<Perros>
+
+<Perro Nombre="Bigotes" Sexo="macho" Raza="caniche" Tamaño="pequeño" Peso="4" 
+Edad="5" FechaEntrada="15/02/2020" Chip="false" Cachorro="false" PPP="false" Vacunado="false" Esterilizado="false" Enf_Graves="false" Sociable="false" Estado="cuarentena" Imagen="Imagenes/Perros/Bigotes.jpg"/>
+<Perro Nombre="REX" Sexo="hembra" Raza="pug" Tamaño="pequeño" Peso="6" Edad="8" FechaEntrada="18/12/2020" Chip="true" Cachorro="false" PPP="false" Vacunado="true" Esterilizado="true" Enf_Graves="false" Sociable="false" Estado="adoptado" Imagen="Imagenes/Perros/REX.jpg"/>
+<Perro Nombre="Raul" Sexo="macho" Raza="samoyedo" Tamaño="grande" Peso="8" Edad="6" FechaEntrada="11/01/2010" Chip="false" Cachorro="false" PPP="true" Vacunado="false" Esterilizado="false" Enf_Graves="true" Sociable="true" Estado="reservado " Imagen="Imagenes/Perros/Raul.jpg"/>
+<Perro Nombre="tintin" Sexo="hembra" Raza="boxer" Tamaño="mediano" Peso="10" Edad="2" FechaEntrada="15/07/2015" Chip="true" Cachorro="false" PPP="false" Vacunado="false" Esterilizado="false" Enf_Graves="false" Sociable="false" Estado="adoptado" Imagen="Imagenes/Perros/tintin.jpg"/>
+
+
+ </Perros>
+ 

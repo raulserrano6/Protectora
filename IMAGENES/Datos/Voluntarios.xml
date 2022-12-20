@@ -1,0 +1,8 @@
+﻿<Voluntarios>
+    <Voluntario Nombre="Pedro" Correo="pedro@gmail.com" Telefono="698698698" Horario="mañana" Conocimientos="false" Foto="Imagenes/voluntarios/pedro.jpg"/>
+    <Voluntario Nombre="María " Correo="maria@gmail.com" Telefono="652639258"  Conocimientos="true" Horario="noche" Foto="Imagenes/voluntarios/maria.jpg"/>
+    <Voluntario Nombre="Sheila " Correo="sheila6@gmail.com" Telefono="611245236" Horario="tarde"  Conocimientos="true" Foto="Imagenes/voluntarios/sheila.jpg"/>
+    <Voluntario Nombre="Juan Ramón " Correo="juanra@gmail.com" Telefono="687123321"
+    Horario="tarde"  Conocimientos="false" Foto="Imagenes/voluntarios/juanra.jpg"/>
+    <Voluntario Nombre="Ernesto " Correo="ernesto_ernesto@gmail.com" Telefono="611222741" Horario="tarde" Conocimientos="true" Foto="Imagenes/voluntarios/ernesto.jpg"/>
+</Voluntarios>

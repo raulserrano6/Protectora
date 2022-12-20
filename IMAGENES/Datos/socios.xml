@@ -1,0 +1,7 @@
+﻿<Socios>
+    <Socio Nombre="ines" Correo="ines@gmail.com" Telefono="691698698" FormaPago="bizum" Mensualidad="500" Foto="Imagenes/socios/ines.jpg"/>
+    <Socio Nombre="María del Pilar " Correo="maria11@gmail.com" Telefono="652632258" FormaPago="efectivo" Mensualidad="150" Foto="Imagenes/socios/maria.jpg"/>
+    <Socio Nombre="Juan " Correo="juan6@gmail.com" Telefono="611245236" FormaPago="transferencia" Mensualidad="3000"  Foto="Imagenes/socios/Juan.jpg"/>
+    <Socio Nombre=" Ramón " Correo="ramon@gmail.com" Telefono="687123321" FormaPago="criptomonedas" Mensualidad="1000"  Foto="Imagenes/socios/ramon.jpg"/>
+    <Socio Nombre="Ernesto " Correo="ernesto@gmail.com" Telefono="614422741" FormaPago="efectivo" Mensualidad="850"  Foto="Imagenes/socios/ernesto.jpg"/>
+</Socios>
